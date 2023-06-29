@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="calculateTitle">CALCULATE</string>
+</resources>
